@@ -1,0 +1,14 @@
+CloseHandle
+CreateRemoteThread
+FindResourceA
+kernel32.dll
+LoadResource
+LockResource
+notepad.exe
+OpenProcess
+RtlMoveMemory
+SizeofResource
+VirtualAlloc
+VirtualAllocEx
+WaitForSingleObject
+WriteProcessMemory
